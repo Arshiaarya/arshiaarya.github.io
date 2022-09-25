@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Microsoft Research, Bangalore</a>. Looking for Fall'23 PhD Positions.
 
 profile:
   align: right
