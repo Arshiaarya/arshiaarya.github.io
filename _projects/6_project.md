@@ -4,7 +4,7 @@ title: DIB Committee
 description: Organized
 img:
 importance: 4
-category: fun
+category: volunteering
 ---
 
 Describe
