@@ -43,7 +43,7 @@
   contents:
     - year: 2021
       items: 
-        - Institute Merit Scholar: Recipient of the merit scholarship in the form of a waiver of 40% of the tuition fees, awarded to top 2% students of the Institute for 6 consecutive semesters.
+        - description: Institute Merit Scholar - Recipient of the merit scholarship in the form of a waiver of 40% of the tuition fees, awarded to top 2% students of the Institute for 6 consecutive semesters.
 
 - title: Academic Interests
   type: nested_list
