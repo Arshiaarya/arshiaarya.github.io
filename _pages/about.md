@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Microsoft Research, Bangalore</a>. Looking for Fall'23 PhD Positions.
+subtitle: <a href='#'>University of California, San Diego</a>. 
 
 profile:
   align: right
@@ -15,6 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Arshia Arya, currently a Research Fellow at Microsoft Research, India. 
-I work in the broad area of Computational Social Science and Human Computer Interaction. I am interested in the interaction of users with social media and the general news media in terms of online engagement, misinformation circulation and other applications.   
-I will be applying for PhD for Fall'2023 and looking to interact with people working in similar domains!
+Hello, I am Arshia Arya, a PhD Student at University of California, San Diego advised by Prof. Deepak Kumar. I work broadly in Human Computer Interaction, Social Computing and Cybersecurity. Previously, I was a Research Fellow at Microsoft Research, India
