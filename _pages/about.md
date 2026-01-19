@@ -15,4 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Arshia Arya, a PhD Student at University of California, San Diego advised by Prof. Deepak Kumar. I work broadly in Human Computer Interaction, Social Computing and Cybersecurity. Previously, I was a Research Fellow at Microsoft Research, India
+I am a PhD student at the University of California, San Diego, advised by [Prof. Deepak Kumar](https://kumarde.com/). Previously, I was a Research Fellow at Microsoft Research India, where I worked with [Joyojeet Pal](https://www.si.umich.edu/people/joyojeet-pal). Before that, I studied Computer Science and Economics at BITS Pilani, Goa.
+
+I study how AI systems and platforms shape online information ecosystems and where they face limitations. I build and evaluate fact-checking systems, benchmark where LLMs fail at factual tasks and why, audit recommendation algorithms, and investigate ethical data practices in computing research. My work contributes tools, datasets, and insights toward more trustworthy AI and safer online spaces.
+
+I served as Vice President of [UCSD Graduate Women in Computing](https://gradwic.ucsd.edu/) (2024-2025). Previously, I co-founded [BITS Goa Women in Tech](https://bitsgoawomenintech.github.io/).
